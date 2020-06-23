@@ -31,5 +31,10 @@ namespace prueba_no_usar.Controllers
         {
             string Algo = "";
         }
+
+        public void Prueba2()
+        {
+            string AlgoAlgo = "";
+        }
     }
 }
