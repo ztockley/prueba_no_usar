@@ -26,5 +26,10 @@ namespace prueba_no_usar.Controllers
 
             return View();
         }
+
+        public void Prueba()
+        {
+            string Algo = "";
+        }
     }
 }
