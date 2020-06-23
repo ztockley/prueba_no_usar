@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.UI.WebControls;
 
 namespace prueba_no_usar.Controllers
 {
@@ -32,9 +33,9 @@ namespace prueba_no_usar.Controllers
             string Algo = "";
         }
 
-        public void Prueba2()
+        public void Funcion2()
         {
-            string AlgoAlgo = "";
+            string fUNCION2 = "";
         }
     }
 }
