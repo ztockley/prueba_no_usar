@@ -37,5 +37,10 @@ namespace prueba_no_usar.Controllers
         {
             string fUNCION2 = "";
         }
+
+        public string Funcion2(string algo)
+        {
+            return algo;
+        }
     }
 }
